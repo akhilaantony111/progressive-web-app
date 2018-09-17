@@ -1,9 +1,8 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
-firebase.json
-.firebaserc
-.firebase
-README.md
+/firebase.json
+/.firebaserc
+/.firebase
 # dependencies
 /node_modules
 
