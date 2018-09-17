@@ -1,0 +1,47 @@
+.main-container {
+    width: 100%;
+    background-image: url('./notebook_work_girl_computer_woman_operator_design_business.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+    height: 100%;
+
+}
+
+.navbg {
+    background-color: #4E4341 !important;
+}
+.footer{
+    background-color: transparent;
+    margin-bottom: 0;
+}
+
+.jumbo {
+    margin-bottom: 0;
+    height: 100%;
+    /* background-color: black; */
+   
+    width: 100%;
+}
+.container-div {
+    margin-top:30px
+}
+
+.text-color {
+    color: black !important;
+}
+.fakeimg {
+    height: 200px;
+    background: rgb(175, 170, 125);
+}
+.toggleClass{
+    display: none;
+}
+
+@media (min-width: 576px)
+{
+.jumbo {
+    padding: 4rem 2rem;
+}
+}
